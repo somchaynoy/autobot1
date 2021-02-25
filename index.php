@@ -5,8 +5,8 @@ use \LINE\LINEBot\HTTPClient\CurlHTTPClient;
 use \LINE\LINEBot;
 use \LINE\LINEBot\MessageBuilder\TextMessageBuilder;
 
-$channel_token='8OePlDix8JOWu/AFFezoV7G5n2TgAhwy6UC4YYwB+ZgEn4tI5zBsUllBo3RyicuTx5mxknthQOaNgMiDj1Oxvhu9a5tGi5f4dBuZVsKiGAdUNrL53Wc9s5wKrl/Z2S1vhR/XciGUZ0CQysHvkL4Q6wdB04t89/1O/w1cDnyilFU=';
-$channel_secret='7892716414d782ce55cb0076ed4d536b';
+$channel_token='FCQ44uj5fXSHX6DFMfo+Uc84ZAzAb//zTZ3jEYyxFg0wG+c+8iUrt3p3Ug1XEFPskjZf5o2bE2Eai6ZBZa2zB669Bu1kL/UccQ9ogTXdTQ6P45UAaf8sSD5/YkAk9LKpIvhlnbCV0icNJ7r1IjAA+QdB04t89/1O/w1cDnyilFU=';
+$channel_secret='62ed7d0082fb08abe6bc7c31d8ae9a7e';
 
 //Get message
 $content=file_get_contents('php://input');
